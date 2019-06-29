@@ -1,0 +1,11 @@
+{
+    "autoload": {
+    "psr-4": {
+         "Otus\\" : "src/Otus"
+        }
+    },
+    "name": "mkhutornaya/comp",
+    "require": {}
+}
+
+
